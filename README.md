@@ -9,8 +9,8 @@
 
 
 <h2>Project Screenshots:</h2>
-
 <p align="center"  href="https://ibb.co/6FtgG4P"><img src="https://i.ibb.co/2dMgRjt/clone-x.png" alt="clone-x" border="0"></p>
+
 
 
   
