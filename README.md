@@ -28,17 +28,17 @@ Here're some of the project's best features:
 <p>1. Download the repository</p>
 
 ```
-  git clone https://github.com/xcyberspy/X-clone.git
+git clone https://github.com/xcyberspy/X-clone.git
 ```
 <p>2. Navigate to the project directory</p>
 
 ```
-  cd X-clone
+cd X-clone
 ```
 <p>3. Open Html File in any Browser</p>
 
 ```
-  index.html
+index.html
 ```
 
   
