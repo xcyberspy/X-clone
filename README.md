@@ -25,16 +25,16 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. import library icons & fonts</p>
+<p>1. Download the repository</p>
 
 ```
-  https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp
+  https://github.com/xcyberspy/X-clone.gith
 ```
 
-<p>2. download the repository</p>
+<p>2. Open Html File in any Browser</p>
 
 ```
-https://github.com/xcyberspy/X-clone.git
+  index.html
 ```
 
   
