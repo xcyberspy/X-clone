@@ -34,6 +34,7 @@ git clone https://github.com/xcyberspy/X-clone.git
 
 ```
 cd X-clone
+cd X-clone-ByXspy
 ```
 <p>3. Open Html File in any Browser</p>
 
